@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Calculadora de Desconto - VGL
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python\&logoColor=white)
@@ -47,3 +48,6 @@ Total a pagar: R$ 225.00
 1. Abra o arquivo `.py`.
 2. Execute o programa.
 3. Digite o valor da compra.
+=======
+# vanessaDeOliveira_Ag6_DS_I
+>>>>>>> 532dc3a976e39437a68cbe4c10d981aa10d9b83a
